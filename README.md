@@ -27,8 +27,8 @@ A content-based movie recommendation system that suggests similar movies based o
 ---
 ## Screenshot 
 Recommendation Page
-<img width="946" height="623" alt="Image" src="https://github.com/user-attachments/assets/4b564563-cf0e-4807-8aae-52c9b5699421" />
-<img width="937" height="610" alt="Image" src="https://github.com/user-attachments/assets/787f3db8-ebf1-4ce1-915e-b3376aea59fe" />
+<img width="946" height="623" alt="Image" src="https://github.com/user-attachments/assets/7545d3c6-265a-4ae9-b4c1-d4161e19f11e" />
+<img width="937" height="610" alt="Image" src="https://github.com/user-attachments/assets/ac16ea0c-8638-4418-8c3a-8df456732d5e" />
 
 ## 🔧 Installation and Setup
 
